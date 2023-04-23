@@ -1,3 +1,6 @@
 learn git2 readme
 
-<img src="images/beauty.jpg" alt="美女" width="25%" height="25%">
+<div align="center">
+  <img src="images/beauty.jpg" alt="美女" width="33.33%" height="33.33%">
+</div>
+
